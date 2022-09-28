@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeunghwanKim&fontSize=60&animation=twinkling&fontAlignY=38)
 * 💻 맡은 일은 꼭 마무리할 수 있게 노력하는 예비 웹 프론트엔드 엔지니어 김승환입니다.
-* 🎨 사용자 경험에 대해 고민하며 디자인에 관심이 많습니다.
+* 🎨 사용자 경험과 디자인에 관심이 많습니다.
 * 🔎 사람들과 함께 하는 것을 좋아하며 소통을 통해 생각의 폭을 넓히는 것을 즐깁니다.
 * ✈️ 여행과 사진에 진심입니다.
 
