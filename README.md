@@ -25,11 +25,11 @@
 <br></br>
 <h4> 🎨 Recent Posts 🎨 </h4>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seunghw)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seunghw)](https://velog-readme-stats.vercel.app/api/redirect?name=seunghw)
 
 <br></br>
 
-<h4> 🍉 ME 🍉</h4>
+<h4>🍉 ME 🍉</h4>
 
 </div>
 <p align='center'>
